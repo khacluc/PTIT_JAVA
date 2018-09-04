@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="PTIT_1807_JAVAWEB_Assignment_WebContent">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="PTIT_1807_JAVAWEB_Assignment_WebContent"/>
+        <property name="java-output-path" value="/PTIT_1807_JAVAWEB_Assignment_WebContent/build/classes"/>
+    </wb-module>
+</project-modules>
